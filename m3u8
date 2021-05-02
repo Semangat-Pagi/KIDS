@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Startv
-rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GEM KIDS
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GEM JUNIOR
